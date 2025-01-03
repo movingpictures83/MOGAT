@@ -1,0 +1,4 @@
+featurenetwork	featurenetwork.txt
+nodenetwork	nodenetwork.txt
+inputdir	data
+dataset_name	sample_data

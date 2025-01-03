@@ -1,0 +1,2 @@
+Prefix plugins/MOGAT/example/
+Plugin MOGAT inputfile parameters.txt outputfile none
